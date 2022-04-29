@@ -1,0 +1,73 @@
+MODULE TOGGLE NoVelocity true
+MODULE SET NoVelocityModes STRING Cancel
+MODULE TOGGLE Sprint true
+MODULE TOGGLE AutoClicker false
+MODULE SET AutoClickerminCPS NUMBER 8.0
+MODULE SET AutoClickermaxCPS NUMBER 19.0
+MODULE TOGGLE Eagle false
+MODULE TOGGLE Triggerbot false
+MODULE SET TriggerbotminCPS NUMBER 8.0
+MODULE SET TriggerbotmaxCPS NUMBER 19.0
+MODULE TOGGLE Killaura false
+MODULE SET KillauraRange NUMBER 6.0
+MODULE SET KillauraminCPS NUMBER 17.0
+MODULE SET KillauramaxCPS NUMBER 19.0
+MODULE SET KillauraAutoblock BOOLEAN true
+MODULE SET KillauraJumpFix BOOLEAN false
+MODULE SET KillauraTargetHUD BOOLEAN true
+MODULE SET KillauraKeepSprint BOOLEAN true
+MODULE SET KillauraAntiBots BOOLEAN true
+MODULE SET KillauraRotations BOOLEAN false
+MODULE SET Killaura1.9 BOOLEAN false
+MODULE SET KillauraCorrectMovement BOOLEAN false
+MODULE SET KillauraLegitAttack BOOLEAN false
+MODULE SET KillauraTargetHudMode STRING New
+MODULE TOGGLE Fly false
+MODULE SET FlyVerticalSpeed NUMBER 1.0
+MODULE SET FlyHorizontalSpeed NUMBER 1.0
+MODULE SET FlyMotionReset BOOLEAN true
+MODULE SET FlyFlyModes STRING Vanilla
+MODULE TOGGLE Speed false
+MODULE SET SpeedSpeed NUMBER 1.0
+MODULE SET SpeedYMotion NUMBER 0.42
+MODULE SET SpeedMode STRING Vanilla
+MODULE TOGGLE NoSlow true
+MODULE TOGGLE MCF true
+MODULE TOGGLE Bedfucker false
+MODULE TOGGLE ChestStealer true
+MODULE SET ChestStealerDelay NUMBER 50.0
+MODULE SET ChestStealerDelay2 NUMBER 50.0
+MODULE TOGGLE Scaffold false
+MODULE SET ScaffoldSprint BOOLEAN false
+MODULE SET ScaffoldNoSwing BOOLEAN true
+MODULE SET ScaffoldWatchdog BOOLEAN true
+MODULE SET ScaffoldDown BOOLEAN false
+MODULE SET ScaffoldSameY BOOLEAN false
+MODULE SET ScaffoldExpand BOOLEAN false
+MODULE SET ScaffoldRightClick BOOLEAN true
+MODULE SET ScaffoldJitter BOOLEAN false
+MODULE SET ScaffoldExpandlength NUMBER 8.0
+MODULE SET ScaffoldReverseYaw BOOLEAN false
+MODULE SET ScaffoldTower BOOLEAN true
+MODULE SET ScaffoldTowerModes STRING Verus
+MODULE TOGGLE InvMove false
+MODULE TOGGLE Vclip false
+MODULE TOGGLE Criticals false
+MODULE TOGGLE TargetStrafe false
+MODULE SET TargetStrafeStrafeRange NUMBER 4.0
+MODULE SET TargetStrafeOnlyJump BOOLEAN true
+MODULE TOGGLE Nofall false
+MODULE SET NofallModes STRING Vanilla
+MODULE TOGGLE Longjump false
+MODULE TOGGLE TpAura false
+MODULE SET TpAuraTpDelay NUMBER 50.0
+MODULE TOGGLE Strafe true
+MODULE TOGGLE InvManager true
+MODULE SET InvManagerDelay NUMBER 50.0
+MODULE SET InvManagerPrevSwords BOOLEAN true
+MODULE SET InvManagerOpenInv BOOLEAN false
+MODULE SET InvManagerFakeInv BOOLEAN true
+MODULE TOGGLE Reach false
+MODULE SET ReachRange NUMBER 6.0
+MODULE TOGGLE Disabler false
+MODULE SET DisablerModes STRING Ghostly
